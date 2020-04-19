@@ -27,7 +27,7 @@ class Stack {
         console.log("Stack Underflow!") 
         return
      }
-     this.container.pop()
+     return this.container.pop()                         // L'HO CORRETTO AGGIUNGENDO return !!!
   }
   peek() {
      if (isEmpty()) {
