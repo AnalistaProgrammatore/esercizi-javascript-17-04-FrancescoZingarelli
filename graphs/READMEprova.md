@@ -6,4 +6,4 @@
 
 
 
-./Denver-mappa.jpg
+Denver-mappa.jpg
