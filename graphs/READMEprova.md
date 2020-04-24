@@ -6,4 +6,4 @@
 
 
 
-(./Denver-mappa.jpg)
+[opefijwiop](Denver-mappa.jpg)
