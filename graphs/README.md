@@ -7,4 +7,4 @@
 
 
 
-(Denver-mappa.jpg "ahabhbh")
+![](Denver-mappa.jpg "ahabhbh")
